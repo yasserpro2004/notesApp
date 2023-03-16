@@ -11,7 +11,7 @@ class CustomBotton extends StatelessWidget {
       height: 55,
       width: MediaQuery.of(context).size.width,
       decoration: BoxDecoration(
-          color: KPrimaryColor, borderRadius: BorderRadius.circular(8)),
+          color: kPrimaryColor, borderRadius: BorderRadius.circular(8)),
       child: const Center(
           child: Text(
         'Add',
